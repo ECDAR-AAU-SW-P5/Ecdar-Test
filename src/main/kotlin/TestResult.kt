@@ -41,6 +41,7 @@ enum class ResultType {
                 MODEL,
                 ERROR,
                 COMPONENTSNOTINCACHE,
+                SYNTAX,
                 RESULT_NOT_SET -> UNSATISFIED
             }
         }
